@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T16:32:48.997Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B0y15xP4K7lQHOV-VDz5" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T16:38:42.631Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="v_gt9S5SitM7VTm73bDO" version="20.2.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="50" y="120" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wvvq3ExsjCNGALFuTBH7-10" value="" style="endArrow=classic;html=1;rounded=0;fontColor=default;dashed=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" target="wvvq3ExsjCNGALFuTBH7-3">
+        <mxCell id="wvvq3ExsjCNGALFuTBH7-10" value="" style="endArrow=classic;html=1;rounded=0;fontColor=default;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" target="wvvq3ExsjCNGALFuTBH7-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="177" as="sourcePoint" />
             <mxPoint x="550" y="177" as="targetPoint" />
@@ -99,7 +99,7 @@
             <mxPoint x="180" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wvvq3ExsjCNGALFuTBH7-1" value="金融级实人认证" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="wvvq3ExsjCNGALFuTBH7-1" value="金融级实人认证&#xa;OpenApi" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="80" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="wvvq3ExsjCNGALFuTBH7-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wvvq3ExsjCNGALFuTBH7-1">
@@ -150,7 +150,7 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wvvq3ExsjCNGALFuTBH7-3" value="金融级实人认证&#xa;认证页" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="wvvq3ExsjCNGALFuTBH7-3" value="金融级实人认证&#xa;认证页CertifyUrl" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="80" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="wvvq3ExsjCNGALFuTBH7-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wvvq3ExsjCNGALFuTBH7-3">
@@ -170,7 +170,7 @@
             <mxPoint x="-3" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wvvq3ExsjCNGALFuTBH7-13" value="" style="endArrow=none;html=1;rounded=0;dashed=1;fontColor=default;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="wvvq3ExsjCNGALFuTBH7-13" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="405" as="sourcePoint" />
             <mxPoint x="670" y="405" as="targetPoint" />
